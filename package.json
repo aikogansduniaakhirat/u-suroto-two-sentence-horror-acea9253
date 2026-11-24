@@ -1,0 +1,11 @@
+{
+  "name": "u-suroto-two-sentence-horror-acea9253",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A two-sentence horror story: a nightly low-battery chirp, the battery taken out, and the chirp arriving from inside the wall.",
+  "license": "MIT",
+  "scripts": {
+    "entry": "MAKEFUN_OUTPUT_DIR=out node main.ts"
+  }
+}
